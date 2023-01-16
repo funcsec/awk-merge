@@ -1,0 +1,16 @@
+From: me <me@example.com> 
+To: <{email}>
+Subject: Catering for event - {name}
+
+Hello {name},
+
+Hope you’re all having a great day. We’re exploring our 
+options for catering. We are looking for catering for breakfast and lunch.
+
+What options do you provide and what is your pricing? 
+
+Thanks,
+
+me
+me@example.com
+company
